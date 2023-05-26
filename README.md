@@ -16,7 +16,7 @@ In the subsequent part of the assignment, the script leverages the product URLs 
  • Product Description
  • Manufacturer
 Deliverables:
-To facilitate the review and utilization of the scraped data, I have provided a comprehensive solution in a GitHub repository. You can access the code and detailed instructions on how to run it by visiting the following link: Python Amazon Scraper (https://github.com/username/repo)
+To facilitate the review and utilization of the scraped data, I have provided a comprehensive solution in a GitHub repository. You can access the code and detailed instructions on how to run it by visiting the following link: Python Amazon Scraper (https://github.com/ABHRAMVIDIYALA/Analystt.AI)
 To ensure smooth execution of the script, please make sure to install the required packages listed in the requirements.txt file before running it. Additionally, ensure that you have a stable internet connection and sufficient processing power to handle the scraping of a large number of pages.
 The script has been thoroughly designed to scrape at least 20 pages of product listings, gathering a substantial amount of data for analysis. Furthermore, it successfully visits each product URL and retrieves additional information from the product detail pages, ensuring a comprehensive dataset.
 Once the scraping process is complete, the script exports all the collected data into a CSV file. This file format allows for easy importation and analysis in various applications and software.
